@@ -1,4 +1,4 @@
-# encrypt
-encrypt_by_add_mod
-encrypt_xor_with_changing_key_by_prev_cipher
-encrypt_xor_with_changing_key_by_prev_cipher_longer_key
+
+# encrypt_by_add_mod
+# encrypt_xor_with_changing_key_by_prev_cipher
+# encrypt_xor_with_changing_key_by_prev_cipher_longer_key
